@@ -91,9 +91,9 @@ In the initial phase of the project, I examined the original data files, which w
 
 The **Entity-Relationship Diagram (ERD)** visually represents the star schema structure, showing the relationships between the fact and dimension tables. This diagram helps in understanding the database architecture and the flow of data.
 
-![ERD Diagram](image/Call Center Modelling.png)
+![ERD Diagram](image/Churn_Modelling.png)
 
-![ERD Diagram](image/Churn Modelling.png) 
+![ERD Diagram](image/Diversity_Inclusion_Modelling.png) 
 
-![ERD Diagram](image/Diversity Inclusion Modelling.png) 
+![ERD Diagram](image/call_center_modelling.png) 
 
