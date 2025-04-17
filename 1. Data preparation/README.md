@@ -136,4 +136,10 @@ The transformed data files resulting from this process can be found in the follo
 
 ---
 
-By following this detailed data preparation process, the datasets are now clean, consistent, and ready for in-depth analysis, ensuring accurate and actionable insights for the business.
+![Data](image/Call_Center_Dataset.png)
+![Data](image/Churn_Dataset_2.png)
+![Data](image/Churn_Dataset_21.png)
+![Data](image/Diversity_Inclusion_Dataset_3.png)
+![Data](image/Diversit_Inclusion_Dataset_31.png)
+![Data](image/Diversity_Inclusion_Dataset_32.png)
+![Data](image/Diversity_Inclusion_Dataset_33.png)
