@@ -112,3 +112,11 @@ Customers with these services showed lowest churn:
 - Churn calculation: (Lost customers ÷ Active customers at period start)  
 - Satisfaction: 5-point scale (1=Very Dissatisfied to 5=Very Satisfied)  
 - All financials in USD
+
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
+
