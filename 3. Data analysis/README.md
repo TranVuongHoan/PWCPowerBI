@@ -113,10 +113,10 @@ Customers with these services showed lowest churn:
 - Satisfaction: 5-point scale (1=Very Dissatisfied to 5=Very Satisfied)  
 - All financials in USD
 
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
+![Data](image/pwc.png)
+![Data](image/pwc_2.png)
+![Data](image/pwc_3.png)
+![Data](image/pwc_4.png)
+![Data](image/pwc_5.png)
+![Data](image/pwc_6.png)
 
