@@ -25,7 +25,7 @@
 - Department and function details
 
 ---
-![Data](image/3. Data Analysis/pwc.png)
+![Data](3.Data Analysis/image/pwc.png)
 ![Data](image/pwc_2.png)
 ![Data](image/pwc_3.png)
 
