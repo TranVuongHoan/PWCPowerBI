@@ -25,9 +25,9 @@
 - Department and function details
 
 ---
-![Data](3.Data Analysis/image/pwc.png)
-![Data](image/pwc_2.png)
-![Data](image/pwc_3.png)
+![Data](File/pwc.png)
+![Data](File/pwc_2.png)
+![Data](File/pwc_3.png)
 
 
 ## 2. Data Transformation Process
@@ -51,7 +51,7 @@
    - Eliminated 124 duplicate customer records
    - Removed 23 duplicate employee entries
 
-![Data](image/pwc_4.png)
-![Data](image/pwc_5.png)
-![Data](image/pwc_6.png)
+![Data](File/pwc_4.png)
+![Data](File/pwc_5.png)
+![Data](File/pwc_6.png)
 
