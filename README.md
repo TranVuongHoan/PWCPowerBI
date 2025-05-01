@@ -46,3 +46,10 @@
 4. **Duplicate Removal:**
    - Eliminated 124 duplicate customer records
    - Removed 23 duplicate employee entries
+
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
