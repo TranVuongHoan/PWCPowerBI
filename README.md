@@ -26,8 +26,8 @@
 
 ---
 ![Data](image/pwc.png)
-![Data](image/pwc.png)
-![Data](image/pwc.png)
+![Data](image/pwc_2.png)
+![Data](image/pwc_3.png)
 
 
 ## 2. Data Transformation Process
@@ -51,7 +51,7 @@
    - Eliminated 124 duplicate customer records
    - Removed 23 duplicate employee entries
 
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
+![Data](image/pwc_4.png)
+![Data](image/pwc_5.png)
+![Data](image/pwc_6.png)
 
