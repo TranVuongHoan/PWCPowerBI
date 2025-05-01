@@ -25,6 +25,10 @@
 - Department and function details
 
 ---
+![Data](image/pwc.png)
+![Data](image/pwc.png)
+![Data](image/pwc.png)
+
 
 ## 2. Data Transformation Process
 
@@ -50,6 +54,4 @@
 ![Data](image/data_coffee_sales.png)
 ![Data](image/data_coffee_sales.png)
 ![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
-![Data](image/data_coffee_sales.png)
+
