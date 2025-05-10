@@ -102,16 +102,6 @@ To prepare the data for efficient analysis, I took the following transformation 
 
 ---
 
-## Data Transformation Tools and Outputs
-
-I automated the data transformation process using a Python script, which is available in the following Jupyter Notebook:  
-[CSV Files Preparation: Jupyter Notebook](path_to_notebook.ipynb)
-
-The transformed data files resulting from this process can be found in the following directory:  
-[Modified Data Files: Directory](path_to_directory)
-
----
-
 ## Additional Data Cleaning Steps
 
 1. **Handling Missing Values**:  
