@@ -1,4 +1,6 @@
 # PWCPowerBI
+![Data](Certification/pwc_cert.png)
+
 ---
 
 ## Data Preparation Overview
